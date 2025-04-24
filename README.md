@@ -3,8 +3,8 @@
 <!-- markdownlint-disable no-duplicate-header -->
 
 # Skywork-R1V: Pioneering Multimodal Reasoning with CoT
-<font size=7><div align='center' >  [[🤗 Skywork-R1V2-38B](https://huggingface.co/Skywork/Skywork-R1V2-38B)] [[🤗 Skywork-R1V-38B](https://huggingface.co/Skywork/Skywork-R1V-38B)] [[📖R1V1 Report](https://arxiv.org/abs/2504.05599)] [[🤖 R1V1 ModelScope](https://modelscope.cn/models/Skywork/Skywork-R1V-38B)]</div></font>
-
+<font size=7><div align='center' >  [[🤗 Skywork-R1V2-38B](https://huggingface.co/Skywork/Skywork-R1V2-38B)] [[📖R1V2 Report](https://arxiv.org/abs/2504.16656)] [[🤖 R1V2 ModelScope](https://modelscope.cn/models/Skywork/Skywork-R1V2-38B)]</div></font>
+<font size=7><div align='center' >  [[🤗 Skywork-R1V-38B](https://huggingface.co/Skywork/Skywork-R1V-38B)] [[📖R1V1 Report](https://arxiv.org/abs/2504.05599)] [[🤖 R1V1 ModelScope](https://modelscope.cn/models/Skywork/Skywork-R1V-38B)]</div></font>
 
 <div align="center">
   <table>
@@ -465,6 +465,16 @@ This code repository is licensed under [the MIT License](https://github.com/Skyw
 If you use Skywork-R1V in your research, please cite:
 
 ```
+@misc{chris2025skyworkr1v2multimodalhybrid,
+      title={Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning}, 
+      author={Chris and Yichen Wei and Yi Peng and Xiaokun Wang and Weijie Qiu and Wei Shen and Tianyidan Xie and Jiangbo Pei and Jianhao Zhang and Yunzhuo Hao and Xuchen Song and Yang Liu and Yahui Zhou},
+      year={2025},
+      eprint={2504.16656},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2504.16656}, 
+}
+
 @misc{peng2025skyworkr1vpioneeringmultimodal,
       title={Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought}, 
       author={Yi Peng and Chris and Xiaokun Wang and Yichen Wei and Jiangbo Pei and Weijie Qiu and Ai Jian and Yunzhuo Hao and Jiachun Pan and Tianyidan Xie and Li Ge and Rongxian Zhuang and Xuchen Song and Yang Liu and Yahui Zhou},
